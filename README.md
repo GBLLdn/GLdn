@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GBLLdn
-- 👀 I’m interested in Android development 
-- 🌱 I’m currently learning Java 
+- 👀 I’m interested in Android
+- 🌱 I’m currently learning Product Development
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/grace-bruce-linton-456449a9/
 
 <!---
